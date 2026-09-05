@@ -1,0 +1,29 @@
+# Evidence
+evidence/
+forensics/disk/
+forensics/memory/
+
+# PCAP files
+pcaps/*.pcap
+pcaps/*.pcapng
+
+# Secrets
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# OS
+Thumbs.db
+Desktop.ini
