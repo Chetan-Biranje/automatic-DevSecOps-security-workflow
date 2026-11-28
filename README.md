@@ -26,3 +26,8 @@ intel, red team, cloud). Those folders only held empty placeholder files, so the
 were removed. The workflow is the part that was working. Related work:
 [Secure-CI-CD-pipelines](https://github.com/Chetan-Biranje/Secure-CI-CD-pipelines),
 [API authorization scanner](https://github.com/Chetan-Biranje/API-Authorization-Matrix-Automated-BOLA-BFLA-Detection).
+
+
+## License
+
+Current owner-authored material is licensed under [Apache-2.0](LICENSE). Previously released MIT material retains its original terms; see [historical MIT license](LICENSE-MIT.txt). Third-party and separately licensed components retain their respective terms.
